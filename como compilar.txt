@@ -1,0 +1,2 @@
+gcc change_structure.c compress.c decompress.c hash_table.c hash_tree.c heap.c huffman_1_4.c interface.c tree.c -ohuffman `pkg-config --cflags --libs gtk+-3.0`
+
